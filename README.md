@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crime Analysis (Final Year Major Project)
 
 ## Description
@@ -60,3 +61,6 @@ The Crime Analysis Project is built using the following technology stack:
 ![Screenshot (35)](https://github.com/Mubeen-Zaki/Final_Year_Project/assets/54596472/9dde4c84-f202-4b36-99ff-504f59ad1a39)
 
 ---
+=======
+# Cognitive-Crime-Analysis-System
+>>>>>>> 000e095b82dc233ef71afbf58be8f640274a40b4
